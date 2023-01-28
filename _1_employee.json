@@ -1,0 +1,38 @@
+[{
+    "employee_1" : [{
+        "name":"vishal",
+        "DOB":"1999",
+        "height":"6_inch",
+        "city":"gulbarga",
+        "state":"karnataka"
+    }],
+    "employee_2" : [{
+        "name":"sagar",
+        "DOB":"1994",
+        "height":"7_inch",
+        "city":"gulbarga",
+        "state":"karnataka"
+    }],   
+    "employee_3" : [{
+        "name":"ashwini",
+        "DOB":"2002",
+        "height":"5_inch",
+        "city":"chittapur",
+        "state":"karnataka"
+    }],  
+    "employee_4" : [{
+        "name":"nikhil",
+        "DOB":"2008",
+        "height":"4_inch",
+        "city":"hyderabad",
+        "state":"telangana"
+    }], 
+    "employee_5" : [{
+        "name":"ashmita",
+        "DOB":"2005",
+        "height":"4.5_inch",
+        "city":"pune",
+        "state":"maharashtra"
+    }]
+}]
+
